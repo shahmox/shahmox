@@ -22,7 +22,7 @@ public class Array {
         n[1] = 'e';
         n[2] = 'l';
         n[3] = 'l';
-        n[4] = 'o';
+        n[4] = 'ss';
         for(int i = 0 ; i<n.length; i++){
             System.out.print(n[i]);
     }
